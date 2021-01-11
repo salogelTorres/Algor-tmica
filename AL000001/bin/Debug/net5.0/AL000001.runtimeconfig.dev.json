@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\lalbe\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\lalbe\\.nuget\\packages"
+    ]
+  }
+}

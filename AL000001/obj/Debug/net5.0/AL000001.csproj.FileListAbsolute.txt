@@ -1,0 +1,16 @@
+C:\Users\lalbe\Desktop\ALGORITMIA\AL000001\bin\Debug\net5.0\AL000001.exe
+C:\Users\lalbe\Desktop\ALGORITMIA\AL000001\bin\Debug\net5.0\AL000001.deps.json
+C:\Users\lalbe\Desktop\ALGORITMIA\AL000001\bin\Debug\net5.0\AL000001.runtimeconfig.json
+C:\Users\lalbe\Desktop\ALGORITMIA\AL000001\bin\Debug\net5.0\AL000001.runtimeconfig.dev.json
+C:\Users\lalbe\Desktop\ALGORITMIA\AL000001\bin\Debug\net5.0\AL000001.dll
+C:\Users\lalbe\Desktop\ALGORITMIA\AL000001\bin\Debug\net5.0\ref\AL000001.dll
+C:\Users\lalbe\Desktop\ALGORITMIA\AL000001\bin\Debug\net5.0\AL000001.pdb
+C:\Users\lalbe\Desktop\ALGORITMIA\AL000001\obj\Debug\net5.0\AL000001.csprojAssemblyReference.cache
+C:\Users\lalbe\Desktop\ALGORITMIA\AL000001\obj\Debug\net5.0\AL000001.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lalbe\Desktop\ALGORITMIA\AL000001\obj\Debug\net5.0\AL000001.AssemblyInfoInputs.cache
+C:\Users\lalbe\Desktop\ALGORITMIA\AL000001\obj\Debug\net5.0\AL000001.AssemblyInfo.cs
+C:\Users\lalbe\Desktop\ALGORITMIA\AL000001\obj\Debug\net5.0\AL000001.csproj.CoreCompileInputs.cache
+C:\Users\lalbe\Desktop\ALGORITMIA\AL000001\obj\Debug\net5.0\AL000001.dll
+C:\Users\lalbe\Desktop\ALGORITMIA\AL000001\obj\Debug\net5.0\ref\AL000001.dll
+C:\Users\lalbe\Desktop\ALGORITMIA\AL000001\obj\Debug\net5.0\AL000001.pdb
+C:\Users\lalbe\Desktop\ALGORITMIA\AL000001\obj\Debug\net5.0\AL000001.genruntimeconfig.cache
